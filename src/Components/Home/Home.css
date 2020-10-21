@@ -1,0 +1,59 @@
+
+.bg-img{
+    font-family: 'Bebas Neue', cursive;
+    background-image: url("../../Image/travel/Rectangle1.png");
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    
+}
+
+
+.slider-content h1{
+    font-family: 'Anton', sans-serif;
+    font-size: 55px;
+    color: #fff;
+    
+}
+.slider-content p{
+    font-size: 18px;
+    color: #fff;
+    text-align: justify;
+    
+}
+.bookingBtn{
+    color: #000;
+    
+}
+.bookingBtn:hover{
+    text-decoration: none;
+    color: #fff;
+}
+
+#home{
+    color:#fff; 
+    height: auto;
+}
+.slider-item:hover{
+    border: 4px solid #dde00cd5;
+    border-radius: 20px;
+    transition: all 0.1s;
+}
+
+.slider-item{
+    position: relative;
+    
+}
+.slider-item img{
+    width: 100%;   
+    
+}
+.slider-item h2{
+    position: absolute;
+    font-family: 'Anton', sans-serif;
+    padding:0px 25px;
+    color: #fff;
+    bottom:10px;
+}

@@ -1,0 +1,37 @@
+.travel-section{
+    color:#fff;
+}
+h1{
+    font-family: 'Anton', sans-serif;
+    font-size: 55px;
+    color: #fff;
+    
+}
+p{
+    font-size: 18px;
+    color: #fff;
+    text-align: justify;
+}
+.travel-form{
+    color:#a5a5a5;
+    border-radius: 8px;
+    background-color: #fff;
+    padding: 15px 40px;
+}
+.travel-input{
+    background-color: #F2F2F2;
+}
+
+.booking{
+    color: #fff;
+}
+.booking:hover{
+    color: #fff;
+    text-decoration: none;
+}
+.form-check-input{
+    margin-top: 7px;
+    width: 10px;
+    height: 10px;
+
+}

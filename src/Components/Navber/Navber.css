@@ -1,0 +1,38 @@
+
+.navbar-body{
+    margin-bottom: 100px;
+}
+.logo{
+width: 110px;
+margin-right: 50px;
+}
+
+.white{
+    color: #fff;
+}
+.black{
+    color: #000 !important;
+}
+
+
+.nav-item{
+    color:#ffffff;
+    margin:16px;
+
+}
+
+.nav-item:hover{
+    color:rgb(3, 248, 113);
+    text-decoration: none;
+}
+.header-input{
+
+    width: 300px;
+    opacity: 0.8;
+    background-color: #f7f7f775;
+    color: #fff;
+    outline: none;
+    border: 2px solid #fff;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
