@@ -1,68 +1,61 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
 
-## Available Scripts
+ **Travel Guru**
 
-In the project directory, you can run:
+</div>
 
-### `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p>A Travel Guru is a A simple page Travel Guide react web application where visitors can select a place from slider on home page 
+and place an room With click on booking button  user will get more information based on place with other facilities.
+User see fancy rooms according to selected prior with google map view.</p>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+![](https://github.com/RaselKazi/racelkazi-portfolio/blob/main/src/assets/img/projects/Travel_guru.png)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[Live Preview](https://react-travel-guru-a040c.web.app/)
+## :rocket: **Features**
 
-### `npm run build`
+- A simple page Travel Guide react web application. With click on booking user will get more information based on place with other facilities.
+- User see fancy rooms according to selected prior with google map view.
+- If user clicked on Start Booking button, the page redirects to login if user is not logged in.
+- User also can sign in through Gmail, Facebook, or email and password if registered.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## :wrench: **Installation Guide**
+---
+- Git commands
+```
+create-react-app Travel-guru
+```
+- Yarn packages
 
-### `npm run eject`
+```
+npm install redux react-redux
+npm install react-bootstrap
+npm install react-router-dom
+npm start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## :arrow_forward: Technology Used
+---
+- :stars: Front-End :
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- React, 
+- React-redux ,
+- Bootstrap-4,
+- React router
+- Google Map.
+- :stars: Back-End :stars:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- Firebase authentication
+- :repeat: Deploy :repeat:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- Firebase
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
